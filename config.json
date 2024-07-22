@@ -1,6 +1,6 @@
 {
   "ocrSpaceApiKey" : "Put Your OCR SPACE KEY", 
-  "spamChannelID" : "Put Your Spam Channel ID", 
+  "spamChannelID" : 1199349870033645719 , 
   "logChannelID" : "Put Your Log Channel ID", 
   "errorChannelID" : "Put Your Error Channel ID", 
   "OwnerID" : "Put Your Main Account ID",
